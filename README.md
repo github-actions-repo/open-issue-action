@@ -1,6 +1,6 @@
 # Open Issue Action
 
-![test workflow](https://github.com/github-actions-course/open-issue-action/actions/workflows/test.yml/badge.svg?event=push&branch=main)
+![test workflow](https://github.com/github-actions-course/open-issue-action/actions/workflows/test.yml/badge.svg?event=push&branch=master)
 [![Check dist/](https://github.com/github-actions-repo/open-issue-action/actions/workflows/check-dist.yml/badge.svg)](https://github.com/github-actions-repo/open-issue-action/actions/workflows/check-dist.yml)
 [![Publish a Release](https://github.com/github-actions-repo/open-issue-action/actions/workflows/release.yaml/badge.svg)](https://github.com/github-actions-repo/open-issue-action/actions/workflows/release.yaml)
 
